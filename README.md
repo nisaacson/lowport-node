@@ -1,10 +1,10 @@
 # lowport-node cookbook
 
-Installs node.js and allows node processes to listen on low ports without sudo
+Installs node.js and allows node processes to listen on low ports without sudo. This cookbook will install the latest version of npm as well
 
 # Requirements
 
-The cookbook `nodejs` is required
+The cookbooks `nodejs` and `apt` are required
 
 # Usage
 
@@ -14,4 +14,4 @@ The cookbook `nodejs` is required
 
 # Author
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Noah Isaacson
