@@ -1,0 +1,32 @@
+{
+  "name": "lowport-node",
+  "description": "Installs/Configures lowport-node",
+  "long_description": "# lowport-node cookbook\n\nInstalls node.js and allows node processes to listen on low ports without sudo. This cookbook will install the latest version of npm as well\n\n# Requirements\n\nThe cookbooks `nodejs` and `apt` are required\n\n# Usage\n\n# Attributes\n\n# Recipes\n\n# Author\n\nAuthor:: Noah Isaacson\n",
+  "maintainer": "YOUR_NAME",
+  "maintainer_email": "YOUR_EMAIL",
+  "license": "All rights reserved",
+  "platforms": {
+  },
+  "dependencies": {
+    "nodejs": ">= 0.0.0",
+    "apt": ">= 0.0.0",
+    "npm": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0"
+}
